@@ -1,0 +1,3 @@
+C:/Users/bulut/Desktop/Projeler/FileOrganization/BMI3241_MehmetAli-Bulut-Ahmet-ÇoşkunHalilİbrahim-Kaya-A1/HibritIndexing/cmake-build-debug/CMakeFiles/HibritIndexing.dir
+C:/Users/bulut/Desktop/Projeler/FileOrganization/BMI3241_MehmetAli-Bulut-Ahmet-ÇoşkunHalilİbrahim-Kaya-A1/HibritIndexing/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bulut/Desktop/Projeler/FileOrganization/BMI3241_MehmetAli-Bulut-Ahmet-ÇoşkunHalilİbrahim-Kaya-A1/HibritIndexing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
